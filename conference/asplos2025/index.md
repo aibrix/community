@@ -1,4 +1,4 @@
-# ASPLOS'25 Tutorial - AIBrix: An Open Source Large-Scale LLM Inference infrastructure for System Research
+# ASPLOS'25 Tutorial - AIBrix: An Open Source Large-Scale LLM Inference Infrastructure for System Research
 
 
 ## Abstract
@@ -17,15 +17,15 @@ AIBrix is an open-source system-level solution designed to address the complexit
  
 
 ## Schedule
-Section 1:
-- AIBrix: Testbed for Public Cloud LLM Serving
-- LLM-Tailored Autoscaling with Consideration of LLM-specific Metrics and Resource Heterogeneity 
+Section 1 (2:00PM - 3:30PM):
+- Introducing AIbrix: A Testbed for Large-Scale LLM Inference System Research
+- LLM-Tailored Autoscaling: Leveraging LLM-specific Metrics and Embracing Resource Heterogeneity 
 - Reducing Inference Bottlenecks in Shared Prompt Environments with Prefix Caching
 - KV Cache Offloading for Cross-Engine KV Reuse
 - Multi-LoRA Management in Production Environment 
 - Open Research Challenges in LLM Inference systems
 
-Section 2:
+Section 2 (4:00PM - 5:30PM):
 - Hands-on AIBrix Feature Demo in AWS Studio Workshop  
 
 
@@ -34,8 +34,8 @@ Section 2:
 
 ## Organizer
 
-|     |     |
-| --- | --- |
+| <div style="width:360px">Author</div> | Introduction |
+| ------------------------------------- | ------------ |
 | <img src="https://avatars.githubusercontent.com/u/4739316?v=4" alt="Jiaxin Shan" width="360px" height="100px"> | Jiaxin Shan, Software Engineer in Bytedance Serverless Compute Infrastructure Team. He received a MS degree from University of Pittsburgh. His research interests focus on ML Infra and Serverless systems. He is a co-chair in Kubernetes WG-Serving and Kubeflow community. |
 | <img src="https://lexu1.web.engr.illinois.edu/images/profile-cropped.jpg" alt="Le Xu" width="360px" height="100px"> | Le Xu is a Researcher in Bytedance. She got her Ph.D. degree from UIUC, advised by Professor Indranil Gupta. Her research focuses on distributed systems, streaming systems and AI systems. She has authored several publications in top-tier conferences, including NSDI, SoCC, and EuroSys. |
 | <img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=71rG3bEAAAAJ&citpid=4" alt="Haiyang Shi" width="360px" height="100px"> | Haiyang Shi is a Researcher/Engineer in Bytedance Serverless Compute Infrastructure Team. He obtained his Ph.D. from The Ohio State University, advised by Prof. Xiaoyi Lu. His research focuses on distributed systems, AI infra, and high-performance interconnects and protocols. |
